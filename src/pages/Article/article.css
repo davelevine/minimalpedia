@@ -39,15 +39,12 @@ body.dark-mode .article .sidebar {
 /* TABLES */
 .article tr {
     vertical-align: top;
-    background-color: #1f2027;
 }
 .sidebar-table tr > td:not([colspan="2"]):first-child {
     font-weight: 600;
-    background-color: #1f2027;
 }
 
 .sidebar-table {
     border-spacing: 1rem;
     border-collapse: separate;
-    background-color: #1f2027;
 }
